@@ -5,7 +5,7 @@ One algorithm that can be used to perform data compression so that the size of t
 ### Run Program
 
 - `python index.py`
-  ![example](./doc/Example.PNG)
+  ![example](./doc/Ex.PNG)
 - for more information `python index.py -h`
   ![help](./doc/Help.PNG)
 
